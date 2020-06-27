@@ -1,0 +1,25 @@
+.main{
+    border: 2px solid black;
+    width: 200px;
+    margin: auto;
+}
+
+.result{
+    width: 190px;
+    background-color: whitesmoke;
+    color: black;
+}
+.clearbtn{
+    width: 190px;
+    background-color: whitesmoke;
+}
+.btn{
+    background-color: whitesmoke;
+    width: 40px;
+    margin: 1px;
+}
+.lastbtn{
+    background-color: whitesmoke;
+    width: 50px;
+    margin-top: 5px;
+}
